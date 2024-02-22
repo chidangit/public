@@ -50,3 +50,5 @@ services:
 
       #to define middlewares
       traefik.http.middlewares.redirect_https.redirectscheme.scheme: https # <== define a https redirection middleware
+
+ 
